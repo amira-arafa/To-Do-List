@@ -1,0 +1,2 @@
+export const INITIAL_TYPE = "INITIAL_TYPE";
+export const INITIAL_TYPE_SAGA = "INITIAL_TYPE_SAGA";
